@@ -52,7 +52,7 @@ int main() {
 	// call this function to cause memory leaks
 	//memoryLeak();
 
-	// call this function to create and delete dynamic objects
+	// call this function to safely create and delete dynamic objects
 	noMemoryLeak();
 
 	return 0;
